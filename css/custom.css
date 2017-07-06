@@ -1,0 +1,54 @@
+/* 
+ * custom css
+ */
+
+html {
+  position: relative;
+
+  
+}
+body {
+  margin-bottom: 60px;
+
+}
+
+.header {
+	font-family: 'Raleway', sans-serif;
+	padding-bottom: 20px;
+}
+
+#about {
+	font-family: 'Arvo', serif;
+	padding-bottom: 400px;
+}
+
+#honors {
+	padding-top: 100px;
+	padding-bottom: 400px;
+	font-family: 'Arvo', serif;	
+}
+
+.xx {
+	padding-top: 50px;
+}
+
+#contact {
+	font-family: 'Arvo', serif;
+	padding-bottom: 500px;
+}
+
+.footer {
+	color: #FFFFFF;
+	padding-top: 20px;
+  	position: absolute;
+  	bottom: 0;
+  	height: 60px;
+  	background-color: #3a3a3a;
+  	font-family: 'Arvo', serif;
+}
+
+.footer a:link{
+	color: #FFFFFF;
+}
+
+
