@@ -1,5 +1,7 @@
 /* 
  * custom css
+ * jarrod li
+ * 06 july 2017
  */
 
 html {
@@ -14,32 +16,54 @@ body {
 
 .header {
 	font-family: 'Raleway', sans-serif;
-	padding-bottom: 20px;
+	padding-bottom: 50px;
 }
 
 #about {
 	font-family: 'Arvo', serif;
-	padding-bottom: 400px;
+	padding-bottom: 500px;
 }
 
 #honors {
-	padding-top: 100px;
-	padding-bottom: 400px;
+	padding-top: 50px;
+	padding-bottom: 500px;
+	padding-left: 25px;
+	padding-right: 25px;
 	font-family: 'Arvo', serif;	
+	background-color: #f7f7f7;
+}
+
+.xy{
+	padding-top:112px;
 }
 
 .xx {
-	padding-top: 50px;
+	padding-top: 100px;
 }
 
+.xxx {
+	text-align: left;
+	padding-top: 100px;
+	font-family: 'Source Code Pro', monospace;
+}
+.leww{
+	border-radius: 25px;
+	padding-left: 20px;
+	padding-right: 20px;
+	background-color: #000000;
+	color: #32CD32;
+	text-align: 
+}
 #contact {
 	font-family: 'Arvo', serif;
-	padding-bottom: 500px;
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-bottom: 490px;
 }
 
 .footer {
 	color: #FFFFFF;
-	padding-top: 20px;
+	width: 100%;
   	position: absolute;
   	bottom: 0;
   	height: 60px;
