@@ -1,79 +1,49 @@
 /* 
  * custom css
  * jarrod li
- * 06 july 2017
+ * 10 july 2017
  */
 
-html {
-  position: relative;
-
-  
-}
 body {
-  margin-bottom: 60px;
-
+    margin-left: 50px;
+    margin-top: 50px;
+    font-family: 'Vollkorn', serif;
 }
 
-.header {
-	font-family: 'Raleway', sans-serif;
-	padding-bottom: 50px;
+.pic {
+    padding-bottom: 60px;
 }
 
-#about {
-	font-family: 'Arvo', serif;
-	padding-bottom: 500px;
+.txt {
+    font-size: 25px;
+    padding-left: 25px;
 }
 
-#honors {
-	padding-top: 50px;
-	padding-bottom: 500px;
-	padding-left: 25px;
-	padding-right: 25px;
-	font-family: 'Arvo', serif;	
-	background-color: #f7f7f7;
+a:link {
+    color: #fc6c85;
 }
 
-.xy{
-	padding-top:112px;
+a:visited {
+    color: #fc6c85;
 }
 
-.xx {
-	padding-top: 100px;
-}
-
-.xxx {
-	text-align: left;
-	padding-top: 100px;
-	font-family: 'Source Code Pro', monospace;
-}
-.leww{
-	border-radius: 25px;
-	padding-left: 20px;
-	padding-right: 20px;
-	background-color: #000000;
-	color: #32CD32;
-	text-align: 
-}
-#contact {
-	font-family: 'Arvo', serif;
-	padding-left: 25px;
-	padding-right: 25px;
-	padding-bottom: 490px;
+a:hover {
+    font-weight: bold;
 }
 
 .footer {
-	color: #FFFFFF;
-	padding-top: 30px;
-	width: 100%;
-  	position: absolute;
-  	bottom: 0;
-  	height: 60px;
-  	background-color: #3a3a3a;
-  	font-family: 'Arvo', serif;
+    font-family: 'Helvetica';
+    border-top: 1px solid black;
+    width: 60%;
+    padding-top: 20px;
 }
 
-.footer a:link{
-	color: #FFFFFF;
+.footer a:hover {
+    text-decoration: none;
 }
 
-
+.cpy {
+    padding-top: 10px;
+    font-family: 'Helvetica';
+    font-weight: bold;
+}
